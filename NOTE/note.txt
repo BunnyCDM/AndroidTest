@@ -1,0 +1,4 @@
+test目录为在本机执行单元测试代码的目录
+androidtest为在android设备上执行单元测试代码的目录，如图（note.png）：
+
+http://www.jianshu.com/p/0a8bbfe6cba2
